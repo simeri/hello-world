@@ -16,5 +16,7 @@ El cual enseña como hacer:
   Eliminar el branch readme-edits pues ya no lo necesitamos
   Ver que el archivo README.MD en master tiene los cambios hechos del branch
   
-eliminar esta linea para ver como la refleja en la comparacion de cambios
+Nueva linea despues de eliminar la anterior.
+Segunda nueva linea
+Tercera nueva linea
 #=============
